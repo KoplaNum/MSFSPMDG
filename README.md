@@ -12,7 +12,9 @@ Usage
 To use the script, you need to pass the input (.pln) file and output (.rte) file as arguments:
 
 CMD prompt :
+
 python convert_flightplan.py input.pln output.rte
+
 Upon successful conversion, a message indicating the completion will be displayed.
 
 Requirements
